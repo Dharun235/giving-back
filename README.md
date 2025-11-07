@@ -7,6 +7,7 @@ To share resources that might help anyone to ease the start of learning some top
 
 ## Things to know about this repo:
 - Only legal, free, open-access content.  
+- This repo is meant to contain resources that contain resources, making the search more easy. As I am not an expert in all the topics, I am not suggesting a roadmap, instead give the place where resources are held.
 - No use of AI for search of resources, just manual search.
 - I maintain and update this repository.  
 - Contributions welcome if they follow the same rules.  
