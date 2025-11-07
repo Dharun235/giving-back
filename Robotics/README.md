@@ -1,6 +1,6 @@
 # Robotics Resources
 
-Curated collection of open resources for robotics: GitHub projects, tutorials, websites, labs, and thought leaders. Free to explore and expand.
+Curated collection of open resources for robotics: GitHub projects, tutorials, websites, labs, textbooks, and thought leaders. Free to explore and expand.
 
 ---
 
@@ -59,4 +59,15 @@ Curated collection of open resources for robotics: GitHub projects, tutorials, w
 
 ---
 
-You are free to add more GitHub repositories, YouTube channels, websites, labs, or people you follow. Keep it high-value and relevant.
+## 6. Free PDFs / Textbooks / Online Resources
+
+- Modern Robotics (Lynch & Park) – Free textbook PDF: https://hades.mech.northwestern.edu/images/7/7f/MR.pdf  
+- The Robotics Primer – Free PDF: https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf  
+- Robot Modeling, Planning and Control (Siciliano et al.) – PDF extract: https://people.disim.univaq.it/~costanzo.manes/EDU_stuff/Robotics_Modelling%2C%20Planning%20and%20Control_Sciavicco_extract.pdf  
+- Probabilistic Robotics (Thrun et al.) – Free PDF: https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf  
+- Introduction to Autonomous Robots (Open Textbook Library) – https://open.umn.edu/opentextbooks/textbooks/316  
+- FreeComputerBooks Robotics Tutorials – https://freecomputerbooks.com/Robotics-for-Beginners.html  
+
+---
+
+You are free to add more GitHub repositories, YouTube channels, websites, labs, people, or free PDFs. Keep it high-value and relevant.
